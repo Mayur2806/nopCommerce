@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-27T06:13:01Z" name="Default suite" finished-at="2022-04-27T06:13:04Z" duration-ms="2991">
+    <groups>
+    </groups>
+    <test started-at="2022-04-27T06:13:01Z" name="Default test" finished-at="2022-04-27T06:13:04Z" duration-ms="2991">
+      <class name="Hybrid_Framework.nopCommerce.HomePageTest">
+        <test-method is-config="true" signature="intializeDriver()[pri:0, instance:Hybrid_Framework.nopCommerce.HomePageTest@6676f6a0]" started-at="2022-04-27T11:43:01Z" name="intializeDriver" finished-at="2022-04-27T11:43:02Z" duration-ms="1208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method signature="NavigateToBasePage()[pri:0, instance:Hybrid_Framework.nopCommerce.HomePageTest@6676f6a0]" started-at="2022-04-27T11:43:02Z" name="NavigateToBasePage" finished-at="2022-04-27T11:43:04Z" duration-ms="1769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToBasePage -->
+      </class> <!-- Hybrid_Framework.nopCommerce.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
